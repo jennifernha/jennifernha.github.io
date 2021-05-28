@@ -1,47 +1,22 @@
 ---
-title: "FIS - Blog Post 2!"
-date: 2021-05-28 02:44:28 -0400
+title: "Welcome to Jekyll!"
+date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Knowing that my second data science project at Flatiron School will be an analysis on house sales, I thought it would be an interesting opportunity to review a data science paper on real estate topic: Real Estate Evaluation Model based on Genetic Algorithm Optimized Neural Network by Yan Sun.
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-With the acceleration of urbanization, real estate has become one of the most booming and growing industries. People are showing more interest in real estate consumption activities over time, in the hopes of greater return with their investment. However, as Yan Sun points out, such growth of transactions in real estate industry has led to an unfavorable situation due to inaccurate evaluation on housing prices. Since I will also be conducting an analysis on house sales, I could not stop but to continue reading this paper. 
+Jekyll also offers powerful support for code snippets:
 
-First, Yan Sun provides a brief overview of real estate assessment, the forming application mechanism by simulating real estate market price and simulating the formation process of real estate market price using different effective evaluation methods. In practice, the evaluators usually adopt at least two assessment methods to improve the accuracy of data evaluation since different real estate evaluation methods leads to different final values. There is absolutely no perfect model to accurately predict housing prices, however, we can optimize the evaluation model to promote the healthy development of the real estate industry. 
+​```python
+def print_hi(name):
+  print("hello", name)
+print_hi('Tom')
+​```
 
-In order to achieve such outcome, Yan Sun applies genetic algorithm to BP neural network model to make up the deficiencies of BP neural network, the weak global optimal searching ability.
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-The result is phenomenal. First, while the accuracy was improved over time for both traditional BP neural network and generic neural network, the accuracy of general neural network was much higher. The difference between the real estate price and the price evaluated by the genetic neural network was also small with a high overall fitting degree, meaning that the predicted price was very close to the actual housing price. 
-
-Yan Sun explains that there are still some deficiencies in this study but her dedication has provided a new way for the evaluation of real estate with feasibility and practicability. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
