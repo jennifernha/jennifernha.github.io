@@ -1,7 +1,7 @@
 ---
 title: "FIS - Blog Post 2"
 date: 2021-05-28 02:49:28 -0400
-categories: jekyll update
+categories: real_estate housing
 ---
 Knowing that my second data science project at Flatiron School will be an analysis on house sales, I thought it would be an interesting opportunity to review a data science paper on real estate topic: Real Estate Evaluation Model based on Genetic Algorithm Optimized Neural Network by Yan Sun.
 
@@ -13,4 +13,34 @@ In order to achieve such outcome, Yan Sun applies genetic algorithm to BP neural
 
 The result is phenomenal. First, while the accuracy was improved over time for both traditional BP neural network and generic neural network, the accuracy of general neural network was much higher. The difference between the real estate price and the price evaluated by the genetic neural network was also small with a high overall fitting degree, meaning that the predicted price was very close to the actual housing price. 
 
-Yan Sun explains that there are still some deficiencies in this study but her dedication has provided a new way for the evaluation of real estate with feasibility and practicability. 
+Yan Sun explains that there are still some deficiencies in this study, but her dedication has provided a new way for the evaluation of real estate with feasibility and practicability. This experiment has exposed me to many new concepts that I have never encountered before and inspired me to think outside of a box. I hope to provide a creative method and analysis during my Phase 2 project as well. 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/43583944/120045434-fc822f80-bfdd-11eb-974c-ea1ca41e5727.png)
