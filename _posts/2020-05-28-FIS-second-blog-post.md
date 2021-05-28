@@ -3,7 +3,7 @@ title: "FIS - Blog Post 2"
 date: 2021-05-28 02:49:28 -0400
 categories: real_estate housing
 ---
-Knowing that my second data science project at Flatiron School will be an analysis on house sales, I thought it would be an interesting opportunity to review a data science paper on real estate topic: Real Estate Evaluation Model based on Genetic Algorithm Optimized Neural Network by Yan Sun.
+Knowing that my second data science project at Flatiron School will be an analysis on house sales, I thought it would be an interesting opportunity to review a data science paper on real estate topic: [Real Estate Evaluation Model based on Genetic Algorithm Optimized Neural Network](https://datascience.codata.org/articles/10.5334/dsj-2019-036/) by Yan Sun.
 
 With the acceleration of urbanization, real estate has become one of the most booming and growing industries. People are showing more interest in real estate consumption activities over time, in the hopes of greater return with their investment. However, as Yan Sun points out, such growth of transactions in real estate industry has led to an unfavorable situation due to inaccurate evaluation on housing prices. Since I will also be conducting an analysis on house sales, I could not stop but to continue reading this paper. 
 
