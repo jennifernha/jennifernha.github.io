@@ -43,4 +43,3 @@ Yan Sun explains that there are still some deficiencies in this study, but her d
 
 
 
-![image](https://user-images.githubusercontent.com/43583944/120045434-fc822f80-bfdd-11eb-974c-ea1ca41e5727.png)
