@@ -1,7 +1,7 @@
 ---
 title: "Data Cleaning and Preparation"
 date: 2021-05-28 02:49:28 -0400
-categories: data cleaning, data preparation
+categories: data cleaning data preparation
 ---
 
 Data Cleaning & Preparation
