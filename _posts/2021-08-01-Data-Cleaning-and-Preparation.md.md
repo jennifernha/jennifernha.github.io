@@ -12,7 +12,7 @@ What follows with this benefit is that there is often too much information avail
 
 1. Get summary of the dataframe
 
-After importing the dataset you will be working with in the Jupyter Notebook, the very first step is to get a concise summary of the dataframe. Using the .info() method, take a look at the non-null count and data type for each column with a total number of entries.
+After importing the dataset you will be working with in the Jupyter Notebook, the very first step is to get a concise summary of the dataframe. Using the `.info()` method, take a look at the non-null count and data type for each column with a total number of entries.
 
 2. Drop unnecessary column(s)
 
