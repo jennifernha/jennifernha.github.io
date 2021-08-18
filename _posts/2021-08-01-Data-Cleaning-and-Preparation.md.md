@@ -4,8 +4,6 @@ date: 2021-05-28 02:49:28 -0400
 categories: data cleaning data preparation
 ---
 
-# Data Cleaning & Preparation
-
 Unlike the past, it has become very convenient and easy to download large datasets with the internet. There are many free resources available online, including data on everything from business to finance, entertainment, and government. 
 
 What follows with this benefit is that there is often too much information available, which requires data cleaning and preparation when using these datasets. I, an aspiring data scientist, also went through these when I worked on my Microsoft Movie Analysis and King County House Sales projects. Therefore, I’d like to dedicate this blog post to explaining the essential steps for data cleaning and preparation.
