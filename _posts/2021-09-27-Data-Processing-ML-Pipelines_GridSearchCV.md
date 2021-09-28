@@ -156,31 +156,6 @@ for idx, gs in enumerate(grids):
         best_clf = idx
 print('\nClassifier with best test set accuracy: %s' % grid_dict[best_clf])
 ```
-The code above will not only let you know the best parameters for each model along with test/train but also the best performing classifier. The result would look something like this:
-```ruby
-```
-Performing model optimizations...
+The code above will not only let you know the best parameters for each model along with test/train scores but also the best performing classifier. The result would look something like this below. You can also experiment by changing the parameters in the grid search.
+![result](https://github.com/jennifernha/jennifernha.github.io/blob/main/_posts/GridSearchCV_Example.png)
 
-Estimator: Logistic Regression
-Best params are : {'classifier__C': 1.0, 'classifier__penalty': 'l1', 'classifier__solver': 'liblinear'}
-Best training accuracy: 0.682
-Test set accuracy score for best params: 0.683 
-
-Estimator: Random Forest
-Best params are : {'classifier__criterion': 'entropy', 'classifier__max_depth': 10, 'classifier__min_samples_split': 10}
-Best training accuracy: 0.744
-Test set accuracy score for best params: 0.745 
-
-Estimator: AdaBoost
-Best params are : {'classifier__learning_rate': 0.1, 'classifier__n_estimators': 100}
-Best training accuracy: 0.627
-Test set accuracy score for best params: 0.773 
-
-Estimator: Gradient Boosting
-Best params are : {'classifier__learning_rate': 0.1, 'classifier__max_depth': 7, 'classifier__n_estimators': 200}
-Best training accuracy: 0.795
-Test set accuracy score for best params: 0.801 
-
-Classifier with best test set accuracy: Gradient Boosting
-```
-```
